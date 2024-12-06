@@ -17,6 +17,8 @@ Period: How often interest is compounded
 
 APR: Annual Percentage Rate, interest rate per year
 
+Link to GitHub Repo: https://github.com/Amelie1253/Compound-Interest-Calculator
+
 Years: Duration of the investment
 
 Outputs:
